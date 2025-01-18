@@ -1,2 +1,2 @@
-# Economia
-Códigos usados em cadeiras do curso de Ciências Econômicas da UFPE
+# Economic
+Codes used in courses in the Economic Sciences course at UFPE
